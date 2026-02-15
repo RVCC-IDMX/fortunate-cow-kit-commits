@@ -43,12 +43,11 @@ Welcome to Week 3! This assignment is your first JavaScript code in the Copilot 
 <!-- TODO: Add your sample output here! Get creative with how you present it. -->
 
 ```text
- _________________________
-< Welcome to JavaScript! >
- -------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+A sample output shows:
+
+💜 A random purple heart emoji
+"Good afternoon!" (time-based greeting)
+"Happy weekend! 🎉" (since it's Saturday)
+"We found love in a hopeless place.-Rhianna" (random fortune from your array)
+A cute kitty displaying it all! 🐱
 ```
