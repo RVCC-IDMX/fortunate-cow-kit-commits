@@ -12,11 +12,11 @@ Document one meaningful interaction where you learned something or had to adjust
 
 **My prompt:**
 
-> <!-- Copy the prompt you used -->
+> <!-- Implement weekend vs. weekday detection. -->
 
 **What happened:**
 
-<!-- What did Agent do? What did you learn? -->
+<!-- Learned about new Date.getDay() to get numbers corresponding to days of the week -->
 
 ---
 
@@ -24,7 +24,7 @@ Document one meaningful interaction where you learned something or had to adjust
 
 **What effect did you observe from changing the instruction(s) to `copilot-instructions.md?**
 
-<!-- Did Copilot follow your instruction? How was the response different? -->
+<!-- Co-pilot followed the instructions, but they did a textual description of the output -->
 
 ---
 
@@ -34,11 +34,15 @@ Answer these questions thoughtfully. A few sentences each is fine.
 
 **What stretched you?**
 
-<!-- What felt challenging or pushed you outside your comfort zone? -->
+<!-- What felt challenging or pushed you outside your comfort zone?
+
+Creating an array of random color emojis and adding that to the output -->
 
 **What did you learn?**
 
-<!-- What was the most useful thing you learned in this assignment? -->
+<!-- What was the most useful thing you learned in this assignment? 
+
+More about how to use math.random in arrays-->
 
 ---
 
@@ -46,8 +50,11 @@ Answer these questions thoughtfully. A few sentences each is fine.
 
 **What do you want to explore further?**
 
-<!-- Any features or concepts you're curious about? -->
+<!-- Any features or concepts you're curious about? 
+
+More random message generation with Math.random-->
 
 **Approximate time spent:**
 
-<!-- e.g., 30 minutes, 1 hour -->
+<!-- e.g., 30 minutes, 1 hour
+1 hour -->
